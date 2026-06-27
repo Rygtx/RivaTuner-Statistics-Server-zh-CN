@@ -4,6 +4,9 @@
 # 但不忽略本文件
 !.gitignore
 
+# 但不忽略项目说明文档
+!README.md
+
 # 但不忽略本地化参考文档
 !/SDK/
 !/SDK/Doc/
