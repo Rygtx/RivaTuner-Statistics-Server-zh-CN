@@ -1,0 +1,10 @@
+# 忽略应用所有文件
+*
+
+# 但不忽略本文件
+!.gitignore
+
+# 但不忽略本地化参考文档
+!/SDK/
+!/SDK/Doc/
+!/SDK/Doc/Localization reference.md
