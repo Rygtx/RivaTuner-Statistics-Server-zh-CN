@@ -8,3 +8,8 @@
 !/SDK/
 !/SDK/Doc/
 !/SDK/Doc/Localization reference.md
+
+# 但不忽略中文语言包
+!/Localization/
+!/Localization/CHN/
+!/Localization/CHN/**

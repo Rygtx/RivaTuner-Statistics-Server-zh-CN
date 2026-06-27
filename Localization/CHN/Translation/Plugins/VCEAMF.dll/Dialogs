@@ -1,0 +1,29 @@
+#src AMD VCE encoder
+#dst AMD VCE 编码器
+#end
+#src Memory type
+#dst 内存类型
+#end
+#src host
+#dst 主机
+#end
+#src Preset
+#dst 预设
+#end
+#src Speed
+#dst 速度
+#end
+#src Balanced
+#dst 均衡
+#end 
+#src Quality
+#dst 质量
+#end
+
+
+#src 1 Mbps
+#dst 1 Mbps
+#end
+#src 50 Mbps
+#dst 50 Mbps
+#end
